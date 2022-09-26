@@ -1,0 +1,47 @@
+* {
+  color: #fff;
+}
+
+.container00.container04 {
+  background-image: url(/IMAGENS/home/04.jpg);
+}
+
+.container00.container03 {
+  background-image: linear-gradient(to left, transparent 0%, rgb(0, 0, 0) 200%),
+    url(/IMAGENS/home/02.gif);
+}
+
+.container00.container02 {
+  background-image: url(/IMAGENS/home/03.jpg);
+}
+
+.titlePadding {
+  padding-top: 200px;
+}
+
+.container00 {
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  background-position: center;
+}
+
+.container01 {
+  background-image: url(/IMAGENS/home/01.jpg);
+}
+
+footer {
+  background-color: #000;
+}
+
+.arrowDown {
+  width: 100px;
+  padding-top: 100px;
+  display: inline-block;
+}
+
+.Nav_Logo {
+  width: 240px;
+  margin-right: 20px;
+  margin-left: -20px;
+}
